@@ -1,0 +1,1 @@
+/**This file is directly interacts with UI of the extension i.e.., popup.html */

@@ -1,0 +1,17 @@
+{
+    "name": "Accurate rating",
+    "version": "0.0.1",
+    "description": "A service for accurately calucating the seller ratings on various e-commerce sites",
+    "permissions": ["tabs", "storage"],
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    },
+    "browser_action": {
+    
+    },
+    "icons" : {
+        "128" : "./icons/sample-icon.png"
+    },
+    "manifest_version": 2
+}
